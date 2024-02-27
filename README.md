@@ -1,5 +1,5 @@
 # Python-TextBasedGame
-|IT-140| 
+# |IT-140| 
 
 For my final project, I created this cool text-based adventure game where you're on a quest to find six armor pieces to restore a character's memory and defeat the final boss. At the beginning of the game, I show the player instructions on how to navigate the game world and interact with items. 
 The game world is made up of different rooms, each with its own set of items and possible directions to move. 
